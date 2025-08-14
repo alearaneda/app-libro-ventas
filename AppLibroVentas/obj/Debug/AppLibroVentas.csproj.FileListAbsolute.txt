@@ -1,0 +1,25 @@
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Sistema Registro Floreria Isabela.exe
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Sistema Registro Floreria Isabela.exe.config
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Sistema Registro Floreria Isabela.exe.manifest
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Sistema Registro Floreria Isabela.application
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\FINegocio.dll
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\FINegocio.pdb
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\AppLibroVentas.csprojResolveAssemblyReference.cache
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\AppLibroVentas.Form1.resources
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\AppLibroVentas.Properties.Resources.resources
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\AppLibroVentas.csproj.GenerateResource.Cache
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\Sistema Registro Floreria Isabela.exe.manifest
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\Sistema Registro Floreria Isabela.application
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\Sistema Registro Floreria Isabela.exe
+C:\Users\manuel araneda\documents\visual studio 2015\Projects\AppLibroFloreriaIsabella\AppLibroVentas\obj\Debug\Sistema Registro Floreria Isabela.pdb
